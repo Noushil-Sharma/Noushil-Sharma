@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Django, Express.Js**
 
-- 💬 Ask me about **react,node.js,DSa**
+- 💬 Ask me about **react,node.js,DSA**
 
 - 📫 How to reach me **noushil2002@gmail.com**
 
